@@ -1,6 +1,6 @@
-package br.com.dvsilva;
+package br.com.dvsilva.aula2;
 
-public class Programa {
+public class Programa2 {
 
     public static void main(String[] args) {
         System.out.println("hello world!");
